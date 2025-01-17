@@ -35,6 +35,11 @@ Cross-platform compatibility for clearing the screen.
 
 
 How to Run
+
+
+
+
+
 Compile: gcc main.c card_LList.c gameObjects.c gameFunctions.c -o memory_game
 
 
