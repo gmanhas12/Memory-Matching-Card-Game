@@ -41,7 +41,7 @@ How to Run
 
 
 Compile: gcc main.c card_LList.c gameObjects.c gameFunctions.c -o memory_game
-
+ 
 
 
 Run: ./memory_game
